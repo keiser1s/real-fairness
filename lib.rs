@@ -121,5 +121,5 @@ pub fn process_instruction(
     Ok(())
 }
 
-// Built with the help of ChatGPT 🤖
-// Real Fairness™ means no secrets — not even who helped code it.
+// Built by Keiser, assisted by ChatGPT 🤖
+// Made for the public as open source code.
