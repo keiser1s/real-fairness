@@ -50,4 +50,4 @@ No excuses. No backdoors.
 
 ## ✅ License
 
-MIT — because fairness should be free.
+Free open source - Real Fairness made for the public.
