@@ -50,4 +50,4 @@ No excuses. No backdoors.
 
 ## ✅ License
 
-Free open source - Real Fairness made for the public.
+Real Fairness made for the public - Free open source code.
