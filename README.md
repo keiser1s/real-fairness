@@ -12,7 +12,7 @@ A minimalist, native Solana program that proves fairness doesn't need to be comp
 
 > ✅ 123 lines of Rust  
 > ✅ Fully on-chain logic  
-> ✅ No server, no trust, no games
+> ✅ No server, fully trusted, impossible to cheat.
 
 ---
 
